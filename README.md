@@ -1,5 +1,5 @@
 Hi! I'm Gonzalo
 
-I'm interested in the intersection of Math and CS, currently working on projects related to that.
+I'm interested in the Web/3, Math and CS. Currently (slowly) working on projects related to those topics.
 
 Work in progress! :)
