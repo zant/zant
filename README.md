@@ -4,6 +4,6 @@ I'm interested in the Web/3, Math and CS. Currently (slowly) working on projects
 
 Maintaining:
 
-- [useWorker](https://github.com/zant/zant/edit/main/README.md)
+- [useWorker](https://github.com/alewin/useWorker)
 
 Work in progress! :)
