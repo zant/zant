@@ -6,6 +6,7 @@ projects I'm actively working on:
 - [riscv](https://github.com/zant/riscv): a risc vm
 
 some of the projects I worked on:
+
 **math**
 - [grundlagen](https://github.com/zant/grundlagen): formalised foundation of analysis theorems in Coq
 - [opengl-wasm](https://github.com/zant/opengl-wam): an experiment running opengl in the browser via wasm and Emscripten (C++)
