@@ -1,6 +1,7 @@
-hi all!
+hi all! this is my small little space, please be kind :)
 
 projects I'm actively working on:
+
 - [ost](https://github.com/zant/ost): a small language inspired in Lua, written in C++
 - [mellon](https://github.com/zant/mellon): another language but lisp-like this time, written in Haskell
 - [riscv](https://github.com/zant/riscv): a risc vm
