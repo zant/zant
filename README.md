@@ -11,7 +11,7 @@ some of the projects I worked on:
 - [grundlagen](https://github.com/zant/grundlagen): formalised foundation of analysis theorems in Coq
 - [opengl-wasm](https://github.com/zant/opengl-wam): an experiment running opengl in the browser via wasm and Emscripten (C++)
 - [mandelhs](https://github.com/zant/mandelhs): mandelbrot set in haskell
-- [mandelcpp](git@github.com:zant/mandelcpp.git): mandelbrot set in C++
+- [mandelcpp](https://github.com/zant/mandelcpp): mandelbrot set in C++
 - [rti1w](https://github.com/zant/rti1w): a raytracer in C++ (with operator overloading for custom vec)
 - [montecarlo-pi5](https://github.com/zant/montecarlo-pi5): approximating PI with the montecarlo method visually using p5.js
 
