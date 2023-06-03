@@ -1,4 +1,6 @@
-hi all! this is my small little space, please be kind :)
+heyo!
+
+this is my small little space, please be kind :)
 
 projects I'm actively working on:
 
