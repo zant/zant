@@ -23,6 +23,7 @@ some of the projects I worked on:
 - [lc3](https://github.com/zant/lc3): LC3 vm implementation in C
 - [algs](https://github.com/zant/algs): some algorithms in C++]
 - [riscv](https://github.com/zant/riscv): a risc-v vm (only up to memory, though I want to continue this one) in Rust
+- [aoc22](https://github.com/zant/aoc22): advent of code '22 in Haskell 
 
 **apis**
 - [qlud](https://github.com/zant/qlud): a GraphQL to TS transpiler for fast prototyping, written in Haskell
