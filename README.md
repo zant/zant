@@ -22,7 +22,7 @@ some of the projects I worked on:
 - [monolog](https://github.com/zant/monolog): a distributed log in Golang
 - [lc3](https://github.com/zant/lc3): LC3 vm implementation in C
 - [algs](https://github.com/zant/algs): some algorithms in C++]
-- [riscv](https://github.com/zant/riscv): a risc vm (only up to memory, though I want to continue this one) in Rust
+- [riscv](https://github.com/zant/riscv): a risc-v vm (only up to memory, though I want to continue this one) in Rust
 
 **apis**
 - [qlud](https://github.com/zant/qlud): a GraphQL to TS transpiler for fast prototyping, written in Haskell
