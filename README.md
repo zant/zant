@@ -9,7 +9,7 @@ projects I'm actively working on:
 some of the projects I worked on:
 
 **math**
-- [grundlagen](https://github.com/zant/grundlagen): formalised foundation of analysis theorems in Coq
+- [grundlagen](https://github.com/zant/grundlagen): formalised analysis theorems in Coq
 - [opengl-wasm](https://github.com/zant/opengl-wam): an experiment running opengl in the browser via wasm and Emscripten (C++)
 - [mandelhs](https://github.com/zant/mandelhs): mandelbrot set in haskell
 - [mandelcpp](https://github.com/zant/mandelcpp): mandelbrot set in C++
