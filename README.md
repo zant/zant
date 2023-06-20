@@ -6,6 +6,7 @@ projects I'm actively working on:
 
 - [ost](https://github.com/zant/ost): a small language inspired in Lua, written in C++
 - [mellon](https://github.com/zant/mellon): another language but lisp-like this time, written in Haskell
+- [rad](https://gitlab.com/radradrad/): a live-streaming platform, written in Scala, Preact and Golang over Kafka
 
 
 some of the projects I worked on:
