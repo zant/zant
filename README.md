@@ -1,7 +1,5 @@
 hi! i'm zant. i'm a programmer and wip mathematician mainly interested in compilers, type theory, category theory, proof assistants, and distributed/parallel programming
 
-this is my small little space, please be kind :)
-
 projects I'm actively working on:
 
 - [ost](https://github.com/zant/ost): a small language inspired in Lua, written in C++
