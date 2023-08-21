@@ -3,11 +3,13 @@ Current projects
 - [ost](https://github.com/zant/ost): a small language inspired in Lua, written in C++
 - [mellon](https://github.com/zant/mellon): another language but lisp-like this time, written in Haskell
 - [rad](https://gitlab.com/radradrad/): a live-streaming platform, written in Scala ↔ Golang over Kafka, and Preact
+- [hottest](https://github.com/zant/hottest): working on homotopy type theory
 
 
 Archive
 
 - [grundlagen](https://github.com/zant/grundlagen): formalised analysis theorems in Coq
+- [logic](https://github.com/zant/logic): formalized logic and basic set-theoretic math in lean
 - [opengl-wasm](https://github.com/zant/opengl-wasm): an experiment running opengl in the browser via wasm and Emscripten (C++)
 - [mandelhs](https://github.com/zant/mandelhs): mandelbrot set in Haskell
 - [mandelcpp](https://github.com/zant/mandelcpp): mandelbrot set in C++
