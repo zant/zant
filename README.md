@@ -1,9 +1,7 @@
 Current projects
 
 - [ost](https://github.com/zant/ost): a small language inspired in Lua, written in C++
-- [mellon](https://github.com/zant/mellon): another language but lisp-like this time, written in Haskell
 - [rad](https://gitlab.com/radradrad/): a live-streaming platform, written in Scala ↔ Golang over Kafka, and Preact
-- [hottest](https://github.com/zant/hottest): working on homotopy type theory with Agda
 
 
 Archive
