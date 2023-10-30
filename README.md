@@ -1,12 +1,9 @@
-Current projects
+Archive
 
 - [ost](https://github.com/zant/ost): a small language inspired in Lua, written in C++
 - [rad](https://gitlab.com/radradrad/): a live-streaming platform, written in Scala ↔ Golang over Kafka, and Preact
-
-
-Archive
-
 - [grundlagen](https://github.com/zant/grundlagen): formalised analysis theorems in Coq
+- [ts-node-rest](https://github.com/zant/ts-node-rest): full-featured REST api in Node.js with TS
 - [logic](https://github.com/zant/logic): formalized logic and basic set-theoretic math in lean
 - [opengl-wasm](https://github.com/zant/opengl-wasm): an experiment running opengl in the browser via wasm and Emscripten (C++)
 - [mandelhs](https://github.com/zant/mandelhs): mandelbrot set in Haskell
@@ -22,4 +19,4 @@ Archive
 - [qlud](https://github.com/zant/qlud): a GraphQL to TS transpiler for fast prototyping, written in Haskell
 - [python-api-boilerplate](https://github.com/zant/python-api-boilerplate): a small boilerplate to setup a server with graphene, flask and sqlalchemy
 - [notion-cards-action](https://github.com/zant/notion-cards-action): notion x github
-- [ts-node-rest](https://github.com/zant/ts-node-rest): full-featured REST api in Node.js with TS
+
